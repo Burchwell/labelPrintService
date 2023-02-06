@@ -1,0 +1,29 @@
+t=2020-06-08T11:22:50-0400 lvl=info msg="open config file" path=C:\\Jeremy\\Projects\\LabelService3\\bin\\Debug\\ngrok.yml err=nil
+t=2020-06-08T11:22:50-0400 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2020-06-08T11:22:50-0400 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4042
+t=2020-06-08T11:22:50-0400 lvl=info msg=start pg=/grpc/agent.Web/State id=90df23e6cb45825f
+t=2020-06-08T11:22:51-0400 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2020-06-08T11:22:51-0400 lvl=info msg="client session established" obj=csess id=8404234f005a
+t=2020-06-08T11:22:51-0400 lvl=info msg="started tunnel" obj=tunnels name="production (http)" addr=http://localhost:8665 url=http://skar-audio-label-printer.ngrok.io
+t=2020-06-08T11:22:51-0400 lvl=info msg="started tunnel" obj=tunnels name=production addr=http://localhost:8665 url=https://skar-audio-label-printer.ngrok.io
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/ id=0828ed48c8f31079
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/ id=0828ed48c8f31079 status=302 dur=0s
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/inspect/http id=526e9be8e6f56f9b
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/inspect/http id=526e9be8e6f56f9b status=200 dur=0s
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/static/css/vendor.da9d52a0e41ac59583ce.css id=27794012c14310e0
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/static/css/app.54d3f1d4cc6273aa368f.css id=8fd2d50f40983067
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/static/css/app.54d3f1d4cc6273aa368f.css id=8fd2d50f40983067 status=200 dur=40.9165ms
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/static/css/vendor.da9d52a0e41ac59583ce.css id=27794012c14310e0 status=200 dur=46.8745ms
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/static/js/vendor.19d4c635e6b764fe93a3.js id=d0a10d1bc24bc4f6
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/static/js/app.f25a69e722ef63c41037.js id=bc79da26741cd73c
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/static/js/app.f25a69e722ef63c41037.js id=bc79da26741cd73c status=200 dur=994.3µs
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/static/js/vendor.19d4c635e6b764fe93a3.js id=d0a10d1bc24bc4f6 status=200 dur=12.965ms
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=f33e7f4df0828664
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=f33e7f4df0828664 status=200 dur=0s
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/grpc/agent.Web/State id=f0256a623516ba8a
+t=2020-06-08T11:23:20-0400 lvl=info msg=start pg=/static/favicon.ico id=390824b2322f859c
+t=2020-06-08T11:23:20-0400 lvl=info msg=end pg=/static/favicon.ico id=390824b2322f859c status=200 dur=0s
+t=2020-06-08T11:25:11-0400 lvl=warn msg="failed to open private leg" id=c7fd48160660 privaddr=localhost:8665 err="dial tcp [::1]:8665: connectex: No connection could be made because the target machine actively refused it."
+t=2020-06-08T11:27:15-0400 lvl=warn msg="failed to open private leg" id=18eb8417440e privaddr=localhost:8665 err="dial tcp [::1]:8665: connectex: No connection could be made because the target machine actively refused it."
+t=2020-06-08T11:33:04-0400 lvl=warn msg="failed to open private leg" id=f8209ac758b8 privaddr=localhost:8665 err="dial tcp [::1]:8665: connectex: No connection could be made because the target machine actively refused it."
+t=2020-06-08T11:33:08-0400 lvl=warn msg="failed to open private leg" id=f0ed60160f93 privaddr=localhost:8665 err="dial tcp [::1]:8665: connectex: No connection could be made because the target machine actively refused it."

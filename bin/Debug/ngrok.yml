@@ -1,0 +1,14 @@
+# ngrok auth config
+authtoken: 1XtrQhZZ5EuUzNmnBFqzkHABpiz_48CBW5bj49W6gfftengpB
+
+region: us
+
+tunnels:
+    production:
+        proto: http
+        addr: 8665
+        hostname: skar-audio-label-printer.ngrok.io
+    test:
+        proto: http
+        addr: 8080
+        subdomain: f85c1a3f

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D49E4CEA-DAE2-4BC1-B31C-E22FE237F329}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages.config">
+    <Files>
+      <File FileName="packages.config" Line="2" Column="11" />
+      <File FileName="Program.cs" />
+      <File FileName="Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LabelService3" expanded="True">
+            <Node name="LabelService3" expanded="True">
+              <Node name="packages.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LabelService3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3dQ9XFxsXCWkqU/IeXJIOJ6hAOvOMFcF5qONFgBlhPfKU65x4ByG7nxry1Hi4TYLmanlze/hCvLMnaT9MsbUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Jeremy\\Projects\\Label-Print-Service\\LabelService3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.7\\microsoft.aspnet.cors.5.2.7.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.aspnet.webapi.cors\\5.2.7\\microsoft.aspnet.webapi.cors.5.2.7.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.aspnet.webapi.owin\\5.2.7\\microsoft.aspnet.webapi.owin.5.2.7.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.aspnet.webapi.owinselfhost\\5.2.7\\microsoft.aspnet.webapi.owinselfhost.5.2.7.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.owin\\4.1.0\\microsoft.owin.4.1.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.owin.host.httplistener\\4.1.0\\microsoft.owin.host.httplistener.4.1.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\microsoft.owin.hosting\\4.1.0\\microsoft.owin.hosting.4.1.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\spire.pdf\\6.8.5\\spire.pdf.6.8.5.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "C:\\Users\\LVEXEC2\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
